@@ -1,0 +1,21 @@
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\ImGui Window Example.exe
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\ImGui Window Example.deps.json
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\ImGui Window Example.runtimeconfig.json
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\ImGui Window Example.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\ImGui Window Example.pdb
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.csproj.AssemblyReference.cache
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui_Window_Example.ImGuiWindow.resources
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.csproj.GenerateResource.cache
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.AssemblyInfoInputs.cache
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.AssemblyInfo.cs
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.csproj.CoreCompileInputs.cache
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Wi.E17AFAB3.Up2Date
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\refint\ImGui Window Example.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.pdb
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ImGui Window Example.genruntimeconfig.cache
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\obj\Debug\net8.0-windows\ref\ImGui Window Example.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\gibso\OneDrive\Desktop\ImGui Window Example\ImGui Window Example\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll

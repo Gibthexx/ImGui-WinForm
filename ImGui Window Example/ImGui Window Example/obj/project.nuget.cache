@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzTRkAVBrclzIUO73nQFzRQLkmb++uskIDX1DV1teMLEbF16R5eaQTxWprEo65oy6Abr7g+F59FrfI56lzv6tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gibso\\OneDrive\\Desktop\\ImGui Window Example\\ImGui Window Example\\ImGui Window Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gibso\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\gibso\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\gibso\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
